@@ -5,7 +5,7 @@ It takes a shift key `K` as the first command-line argument and one or more mess
 Uppercase and lowercase letters are shifted within the alphabet, while non-letter characters remain unchanged.  
 
 ## Usage
-
+```bash
 javac Caesar.java
 java Caesar 3 Hello World
 
